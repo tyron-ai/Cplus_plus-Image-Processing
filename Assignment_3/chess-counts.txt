@@ -1,0 +1,6 @@
+Pawn = red = 4349
+Castle = green = 6553
+Knight = blue = 8028
+Bishop = magenta = 5793
+Queen = yellow = 7137
+King = cyan = 7640
